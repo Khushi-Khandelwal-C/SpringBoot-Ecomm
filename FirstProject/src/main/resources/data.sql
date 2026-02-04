@@ -1,0 +1,6 @@
+INSERT INTO PRODUCT (ID, NAME, DESCRIPTION, BRAND, PRICE, CATEGORY, RELEASE_DATE, PRODUCTAVAILABLE, STOCKQUANTITY) VALUES
+                                                                                                    (1, 'Logitech G502', 'High-performance wired gaming mouse', 'Logitech', 49.99, 'Electronics', '2025-10-15', true, 50),
+                                                                                                    (2, 'UltraWide Monitor', '34-inch curved productivity monitor', 'Dell', 450.00, 'Computers', '2025-11-20', true, 12),
+                                                                                                    (3, 'Mechanical Keyboard', 'RGB backlit with blue switches', 'Keychron', 89.50, 'Electronics', '2025-08-05', true, 25),
+                                                                                                    (4, 'Noise Cancelling Headphones', 'Wireless over-ear headphones', 'Sony', 299.99, 'Audio', '2026-01-10', false, 0),
+                                                                                                    (5, 'Ergonomic Desk Chair', 'Breathable mesh with lumbar support', 'Herman Miller', 625.00, 'Furniture', '2025-12-01', true, 8);
